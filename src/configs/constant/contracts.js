@@ -1,0 +1,5 @@
+export default {
+  tokenV1Address: '0xb7fF9E396f5860D8c4E4cde9CEBb07B6B6989C26',
+  tokenV2Address: '0xA05689576Af62f814d248F7870f8D0bD3d7038Eb',
+  contractMigrateAddress: '0x5595E3660Bf1b2616FbdA902d384129d3F768784'
+}
